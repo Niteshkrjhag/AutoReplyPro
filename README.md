@@ -73,7 +73,7 @@ Contributions to enhance platform support, improve response generation, or add n
 ---
 
 ## 📄 License
-[License.md]
+This project is licensed under the terms of the [MIT License](LICENSE)
 
 ---
 
