@@ -1,7 +1,7 @@
 # AutoReplyPro: Intelligent Multi-Platform Conversational Assistant
 
 ## 🚀 Project Overview
-AutoReplyPro is an advanced AI-powered auto-reply system that leverages machine learning to generate contextually relevant and personalized responses across various messaging platforms. By utilizing the Cohere AI API and intelligent message processing, the application can automatically respond to incoming messages with human-like conversational skills.
+AutoReplyPro is an AI-powered auto-reply system that leverages machine learning to generate contextually relevant and personalized responses across various messaging platforms. By utilizing the Cohere AI API and intelligent message processing, the application can automatically respond to incoming messages with human-like conversational skills.
 
 ---
 
