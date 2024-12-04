@@ -60,13 +60,6 @@ The current implementation is designed with platform flexibility in mind. By adj
 
 ---
 
-## 🔐 Security Disclaimer
-- Never share your **Cohere API key** publicly.
-- Use responsibly and respect platform terms of service.
-- Obtain necessary permissions before deployment.
-
----
-
 ## 🤝 Contributing
 Contributions to enhance platform support, improve response generation, or add new features are welcome! Feel free to submit a pull request or open an issue.
 
